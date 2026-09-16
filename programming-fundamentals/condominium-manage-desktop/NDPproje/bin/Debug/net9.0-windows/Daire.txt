@@ -1,0 +1,6 @@
+Blok No	Daire No	Durum
+1	100	Kayitli
+2	200	Kayitli
+1	101	Kayitli
+4	400	Kayitli
+1	102	Kayitli

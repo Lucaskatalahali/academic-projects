@@ -1,0 +1,42 @@
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.exe
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.deps.json
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.runtimeconfig.json
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.dll
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.pdb
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.Form1.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormBilgiDuzeltme.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormMekan.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormOturanKayit.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormRapor.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.dll
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\refint\NDPproje.dll
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.pdb
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Ambiente de Trabalho\NDPproje\NDPproje\obj\Debug\net9.0-windows\ref\NDPproje.dll
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.exe
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.deps.json
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.runtimeconfig.json
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.dll
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\bin\Debug\net9.0-windows\NDPproje.pdb
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.Form1.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormBilgiDuzeltme.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormMekan.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormOturanKayit.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.FormRapor.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.Properties.Resources.resources
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.csproj.GenerateResource.cache
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.dll
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\refint\NDPproje.dll
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.pdb
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\NDPproje.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\NDPproje\NDPproje\NDPproje\obj\Debug\net9.0-windows\ref\NDPproje.dll

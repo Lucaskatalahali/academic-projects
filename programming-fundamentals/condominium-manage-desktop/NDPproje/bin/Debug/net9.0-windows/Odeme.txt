@@ -1,0 +1,7 @@
+Adi Soyadi	Daire No	Tutar	Kalan Borç
+Lucas Isaac	100	10 000,00 €	0,00 €
+Johnson William	200	15 000,00 €	2 000,00 €
+Cassoma Mateus	101	14 000,00 €	3 000,00 €
+Ahmet Adam	400	5 000,00 €	5 000,00 €
+Mohamad Ah	102	17 000,00 €	0,00 €
+Johnson William	200	1 000,00 €	1 000,00 €
